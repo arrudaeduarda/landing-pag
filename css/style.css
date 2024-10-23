@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Italiana&display=swap');
 * {
+    text-decoration: none;
+    color: black;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -50,6 +52,87 @@ main {
             margin: 30px;
         }
     }
+}
+
+.container{
+    width: 85dvh;
+    background-color: #f0f0f0;
+    justify-content: center;
+    align-items: center;
+    padding-block: 10px;
+    padding-left: 10px;
+    margin-top: 50px;
+    border-radius: 20px;
+    p{
+        margin: 10px;
+    }
+
+}
+.container2{
+
+    background-color: #f0f0f0;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-top: 50px;
+    border-radius: 20px;
+
+}
+.container3{
+
+    background-color: #f0f0f0;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-top: 50px;
+    border-radius: 20px;
+
+}
+.container4{
+
+    background-color: #f0f0f0;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-top: 50px;
+    border-radius: 20px;
+
+}
+.container5{
+
+    background-color: #f0f0f0;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-top: 50px;
+    border-radius: 20px;
+
+}
+.container6{
+
+    background-color: #f0f0f0;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-top: 50px;
+    border-radius: 20px;
+
+}
+.container7{
+
+    background-color: #f0f0f0;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-top: 50px;
+    border-radius: 20px;
+
 }
 
 
